@@ -17,7 +17,7 @@
 def my_great_method
   puts "here it is"
 end
-
+'''
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
